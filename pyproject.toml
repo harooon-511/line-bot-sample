@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "line"
+version = "0.1.0"
+description = ""
+authors = ["harooon-511"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"poetry env remove
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
